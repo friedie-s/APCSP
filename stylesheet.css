@@ -1,0 +1,33 @@
+            .heading {
+                padding: 60px;
+                font-size: 25px;
+                text-align: center;
+                background: pink;
+            }
+           
+ 
+            .section {
+               background-color: #E9E2FA;
+               padding: 20px;
+               margin-top: 30px;
+            }
+
+
+
+            .movie {
+              background-color: #FDD797;
+              padding: 20px;
+              margin-top: 30px;
+              }
+/*this was created by chat GpT to adjust the image sizes and make it look prettier in the page by changing spacing, rounding corners, and adding shadows*/
+              img {
+    width: 100%;
+    max-width: 350px;  /* Make the images smaller */
+    height: auto;
+    margin: 10px 0;
+    border-radius: 10px;  /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add subtle shadow */
+    transition: transform 0.3s ease-in-out;
+}
+
+
